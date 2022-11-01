@@ -1,2 +1,2 @@
 # cv
-https://RVladislavv.github.io/cv/cv
+https://github.com/RVladislavv/CV/blob/gh-pages/cv.md
