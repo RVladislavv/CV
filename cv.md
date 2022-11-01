@@ -5,7 +5,7 @@
 ### **Junior WEB Developer**
 ****
 ### **Contacts:**
-**Phone:** +79608079494
+**Phone:** +79608079494(RU) +77055302770(KZ)
 
 **E-mail:** vvrych3@gmail.com
 
