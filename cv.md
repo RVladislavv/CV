@@ -80,7 +80,7 @@ As I wrote in About Me, I edited landing pages: I changed fonts, colors, images,
     * [HTML/CSS](https://www.udemy.com/course/webdeveloper)
 
 
-    * [JavaScript (in progress)](https://www.udemy.com/course/javascript_full/)
+    * [JavaScript + React (in progress)](https://www.udemy.com/course/javascript_full/)
 
 
 * FreeCodeCamp
