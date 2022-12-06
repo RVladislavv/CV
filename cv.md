@@ -27,7 +27,7 @@ I want to become a strong developer and make cool projects
 ***
 
 ### **Skills:**
-* HTML5, CSS3, SCSS/SASS
+* HTML5, CSS3, SCSS/SASS, Bootstrap
 
 * JavaScript, React(basics)
 
