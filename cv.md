@@ -1,7 +1,7 @@
 # [rsschool-cv](https://github.com/RVladislavv)
 # Vladislav Rychkov
 
-![My photo](assets/img/photo.png)
+![My photo](assets/img/small.jpg)
 ### **Junior WEB Developer**
 ****
 ### **Contacts:**
